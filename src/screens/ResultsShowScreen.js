@@ -9,4 +9,4 @@ const ResultsShowScreen = () => {
 
 const styles = StyleSheet.create({});
 
-export default ResultShowScreen;
+export default ResultsShowScreen;
